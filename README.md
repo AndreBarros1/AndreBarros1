@@ -14,30 +14,36 @@
 
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-<div align="left">
-
-### 📍 Localização
-Florianópolis, Santa Catarina 🌊
-
-### 🎓 Formação
-Análise e Desenvolvimento de Sistemas
-
-### 💼 Foco Profissional
-Full Stack Developer
-
-### 💻 Tecnologias
-**Linguagens:** Java • Python • JavaScript  
-**Frontend:** React • HTML5 • CSS3  
-**Backend:** Node.js  
-**Databases:** MySQL • PostgreSQL  
-
-### 🛠️ Ferramentas
-Git • GitHub • IntelliJ IDEA • VS Code
-
-### 🎯 Objetivo
-Conquistar minha primeira oportunidade de estágio em tecnologia e contribuir com projetos incríveis! 🚀
-
-</div>
+<table>
+  <tr>
+    <td>📍 <b>Localização</b></td>
+    <td>Florianópolis, SC 🌊</td>
+  </tr>
+  <tr>
+    <td>🎓 <b>Formação</b></td>
+    <td>Análise e Desenvolvimento de Sistemas</td>
+  </tr>
+  <tr>
+    <td>💼 <b>Foco</b></td>
+    <td>Full Stack Developer</td>
+  </tr>
+  <tr>
+    <td>💻 <b>Stack</b></td>
+    <td>Java • Python • React • JavaScript</td>
+  </tr>
+  <tr>
+    <td>🗄️ <b>Databases</b></td>
+    <td>MySQL • PostgreSQL</td>
+  </tr>
+  <tr>
+    <td>🛠️ <b>Tools</b></td>
+    <td>Git • IntelliJ • VS Code</td>
+  </tr>
+  <tr>
+    <td>🎯 <b>Objetivo</b></td>
+    <td>Conseguir meu primeiro estágio! 🚀</td>
+  </tr>
+</table>
 
 </div>
 
