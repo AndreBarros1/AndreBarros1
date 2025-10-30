@@ -19,12 +19,14 @@ const andreRossi = {
     localizacao: "Florianópolis, SC 🌊",
     estudante: "Análise e Desenvolvimento",
     foco: "Full Stack Developer",
-    linguagens: ["Java", "Python", "JavaScript"],
-    frontend: ["React", "HTML", "CSS"],
-    backend: ["Node.js"],
-    databases: ["MySQL", "PostgreSQL"],
-    ferramentas: ["Git", "IntelliJ", "VS Code"],
-    objetivo: "Primeiro estágio em tech! 🚀"
+    tech: {
+        linguagens: ["Java", "Python", "JavaScript"],
+        frontend: ["React", "HTML", "CSS"],
+        backend: ["Node.js"],
+        databases: ["MySQL", "PostgreSQL"],
+        tools: ["Git", "IntelliJ", "VS Code"]
+    },
+    objetivo: "Conseguir meu primeiro estágio 🚀"
 };
 ```
 
