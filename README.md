@@ -1,22 +1,36 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF41&center=true&vCenter=true&width=940&lines=Ol%C3%A1%2C+eu+sou+o+Andr%C3%A9+Rossi!+%F0%9F%91%8B;Desenvolvedor+Full+Stack+em+forma%C3%A7%C3%A3o;Apaixonado+por+tecnologia+e+programa%C3%A7%C3%A3o!" alt="Typing SVG" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=ANDRÉ%20ROSSI&fontSize=80&fontAlignY=35&fontColor=fff&animation=twinkling&desc=Full%20Stack%20Developer%20|%20Florianópolis,%20SC%20🌊&descSize=18&descAlignY=55" />
 </div>
 
-<img align="right" alt="Developer" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+o+Andr%C3%A9+Rossi!+%F0%9F%91%8B;Desenvolvedor+Full+Stack+em+forma%C3%A7%C3%A3o;Java+%E2%80%A2+Python+%E2%80%A2+React+%E2%80%A2+JavaScript;Sempre+aprendendo+e+evoluindo!+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
+
+<br>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ## 👨‍💻 Sobre mim
 ```javascript
 const andreRossi = {
+    nome: "André Rossi",
     localizacao: "Florianópolis, SC 🌊",
     formacao: "Análise e Desenvolvimento de Sistemas",
     foco: "Desenvolvimento Full Stack",
-    aprendendo: ["Java", "Python", "React", "JavaScript"],
-    hobbies: ["Codar", "Aprender novas tecnologias", "Resolver problemas"],
-    objetivo: "Conseguir meu primeiro estágio em tech! 🚀"
+    tecnologias: {
+        linguagens: ["Java", "Python", "JavaScript"],
+        frontend: ["React", "HTML", "CSS"],
+        backend: ["Node.js"],
+        databases: ["MySQL", "PostgreSQL"],
+        ferramentas: ["Git", "GitHub", "VS Code", "IntelliJ"]
+    },
+    objetivo: "Conseguir meu primeiro estágio em tech! 🚀",
+    hobbies: ["Codar 💻", "Aprender 📚", "Resolver problemas 🧩"],
+    frase: "Code is poetry in motion"
 };
 ```
 
-<br>
+<br clear="right"/>
 
 ## 🛠️ Tecnologias & Ferramentas
 
@@ -66,38 +80,61 @@ const andreRossi = {
 
 <div align="center">
 
-[![Sistema Mini Mercado](https://github-readme-stats.vercel.app/api/pin/?username=AndreBarros1&repo=MVP-Mercadinho&theme=tokyonight)](https://github.com/AndreBarros1/MVP-Mercadinho)
+### 🛒 Sistema de Mini Mercado
+*Sistema completo de gerenciamento aplicando POO e princípios SOLID*
+
+**Tecnologias:** Java | POO | SOLID | Git
+
+[![Repo](https://img.shields.io/badge/Visualizar_Projeto-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AndreBarros1)
 
 </div>
 
-> 🛒 **Sistema de Mini Mercado** - Sistema completo de gerenciamento aplicando POO e princípios SOLID
+> 💡 Sistema desenvolvido para gerenciar mini mercados de auto serviço com cadastro de produtos, clientes (PF/PJ), controle de estoque e registro de vendas. Aplicação prática dos princípios SOLID e boas práticas de programação.
+
+## 📈 Atividade Recente
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndreBarros1&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
 
 ## 📫 Como me encontrar
 
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrelrcb778@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AndreBarros1)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
 
 </div>
 
-## 💭 Frase inspiradora
+## 💭 Frase Inspiradora
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
+
+## 🎯 Objetivos 2025
+
+- 🎓 Concluir curso de Análise e Desenvolvimento de Sistemas
+- 💼 Conseguir primeiro estágio em desenvolvimento
+- 🚀 Contribuir em projetos open source
+- 📚 Aprofundar conhecimentos em React e Spring Boot
+- 🏆 Desenvolver portfólio com 5+ projetos
 
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AndreBarros1&color=blue&style=flat-square&label=Visitantes+do+Perfil" alt="Profile Views"/>
   
-  ### 🌟 "Code is like humor. When you have to explain it, it's bad." - Cory House
+  <br><br>
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  ### 🌟 *"Code is like humor. When you have to explain it, it's bad."* - Cory House
+  
+  <br>
+  
+  **Desenvolvido com ☕ e 💻 em Florianópolis**
+  
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AndreBarros1/AndreBarros1/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
