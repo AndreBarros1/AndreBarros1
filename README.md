@@ -8,29 +8,29 @@
 
 <br>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+<div align="center">
+  
 ## 👨‍💻 Sobre mim
+
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 ```javascript
 const andreRossi = {
     nome: "André Rossi",
     localizacao: "Florianópolis, SC 🌊",
-    formacao: "Análise e Desenvolvimento de Sistemas",
-    foco: "Desenvolvimento Full Stack",
-    tecnologias: {
-        linguagens: ["Java", "Python", "JavaScript"],
-        frontend: ["React", "HTML", "CSS"],
-        backend: ["Node.js"],
-        databases: ["MySQL", "PostgreSQL"],
-        ferramentas: ["Git", "GitHub", "VS Code", "IntelliJ"]
-    },
-    objetivo: "Conseguir meu primeiro estágio em tech! 🚀",
-    hobbies: ["Codar 💻", "Aprender 📚", "Resolver problemas 🧩"],
-    frase: "Code is poetry in motion"
+    estudante: "Análise e Desenvolvimento",
+    foco: "Full Stack Developer",
+    linguagens: ["Java", "Python", "JavaScript"],
+    frontend: ["React", "HTML", "CSS"],
+    backend: ["Node.js"],
+    databases: ["MySQL", "PostgreSQL"],
+    ferramentas: ["Git", "IntelliJ", "VS Code"],
+    objetivo: "Primeiro estágio em tech! 🚀"
 };
 ```
 
-<br clear="right"/>
+</div>
+
+<br clear="all">
 
 ## 🛠️ Tecnologias & Ferramentas
 
@@ -62,12 +62,18 @@ const andreRossi = {
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreBarros1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreBarros1&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreBarros1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreBarros1&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=AndreBarros1&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndreBarros1&theme=tokyonight" alt="GitHub Streak"/>
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=AndreBarros1&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ## 🏆 GitHub Trophies
@@ -90,12 +96,6 @@ const andreRossi = {
 </div>
 
 > 💡 Sistema desenvolvido para gerenciar mini mercados de auto serviço com cadastro de produtos, clientes (PF/PJ), controle de estoque e registro de vendas. Aplicação prática dos princípios SOLID e boas práticas de programação.
-
-## 📈 Atividade Recente
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndreBarros1&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
 
 ## 📫 Como me encontrar
 
