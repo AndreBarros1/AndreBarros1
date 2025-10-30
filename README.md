@@ -14,13 +14,30 @@
 
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-**📍 Localização:** Florianópolis, SC 🌊  
-**🎓 Estudante:** Análise e Desenvolvimento de Sistemas  
-**💼 Foco:** Full Stack Developer  
-**💻 Stack:** Java • Python • React • JavaScript  
-**🗄️ Databases:** MySQL • PostgreSQL  
-**🛠️ Tools:** Git • IntelliJ • VS Code  
-**🎯 Objetivo:** Conseguir meu primeiro estágio em tech! 🚀
+<div align="left">
+
+### 📍 Localização
+Florianópolis, Santa Catarina 🌊
+
+### 🎓 Formação
+Análise e Desenvolvimento de Sistemas
+
+### 💼 Foco Profissional
+Full Stack Developer
+
+### 💻 Tecnologias
+**Linguagens:** Java • Python • JavaScript  
+**Frontend:** React • HTML5 • CSS3  
+**Backend:** Node.js  
+**Databases:** MySQL • PostgreSQL  
+
+### 🛠️ Ferramentas
+Git • GitHub • IntelliJ IDEA • VS Code
+
+### 🎯 Objetivo
+Conquistar minha primeira oportunidade de estágio em tecnologia e contribuir com projetos incríveis! 🚀
+
+</div>
 
 </div>
 
