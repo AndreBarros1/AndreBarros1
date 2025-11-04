@@ -13,39 +13,22 @@
 ## 👨‍💻 Sobre mim
 
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-<table>
-  <tr>
-    <td>📍 <b>Localização</b></td>
-    <td>Florianópolis, SC 🌊</td>
-  </tr>
-  <tr>
-    <td>🎓 <b>Formação</b></td>
-    <td>Análise e Desenvolvimento de Sistemas</td>
-  </tr>
-  <tr>
-    <td>💼 <b>Foco</b></td>
-    <td>Full Stack Developer</td>
-  </tr>
-  <tr>
-    <td>💻 <b>Stack</b></td>
-    <td>Java • Python • React • JavaScript</td>
-  </tr>
-  <tr>
-    <td>🗄️ <b>Databases</b></td>
-    <td>MySQL • PostgreSQL</td>
-  </tr>
-  <tr>
-    <td>🛠️ <b>Tools</b></td>
-    <td>Git • IntelliJ • VS Code</td>
-  </tr>
-  <tr>
-    <td>🎯 <b>Objetivo</b></td>
-    <td>Conseguir meu primeiro estágio! 🚀</td>
-  </tr>
-</table>
-
-</div>
+```javascript
+const andreRossi = {
+    nome: "Andre Rossi",
+    localizacao: "Florianopolis, SC",
+    formacao: "Analise e Desenvolvimento de Sistemas",
+    foco: "Full Stack Developer",
+    tecnologias: {
+        linguagens: ["Java", "Python", "JavaScript"],
+        frontend: ["React", "HTML", "CSS"],
+        backend: ["Node.js"],
+        databases: ["MySQL", "PostgreSQL"],
+        ferramentas: ["Git", "IntelliJ", "VS Code"]
+    },
+    objetivo: "Conseguir meu primeiro estagio em tech"
+};
+```
 
 <br clear="all">
 
