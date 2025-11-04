@@ -9,24 +9,20 @@
 <br>
 
 <div align="center">
+
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
   
 ## 👨‍💻 Sobre mim
 
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 ```javascript
 const andreRossi = {
-    nome: "Andre Rossi",
     localizacao: "Florianopolis, SC",
     formacao: "Analise e Desenvolvimento de Sistemas",
     foco: "Full Stack Developer",
-    tecnologias: {
-        linguagens: ["Java", "Python", "JavaScript"],
-        frontend: ["React", "HTML", "CSS"],
-        backend: ["Node.js"],
-        databases: ["MySQL", "PostgreSQL"],
-        ferramentas: ["Git", "IntelliJ", "VS Code"]
-    },
-    objetivo: "Conseguir meu primeiro estagio em tech"
+    stack: ["Java", "Python", "React", "JavaScript"],
+    databases: ["MySQL", "PostgreSQL"],
+    tools: ["Git", "IntelliJ", "VS Code"],
+    objetivo: "Conseguir meu primeiro estagio"
 };
 ```
 
